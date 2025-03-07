@@ -2,6 +2,16 @@
 
 A web application built with Angular 14 for creating and managing thoughts and memories, featuring full CRUD functionality.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/06dad6f8-50dc-44ce-973f-2886200726e0" width="45%"/>
+<img src="https://github.com/user-attachments/assets/a7fba080-796e-4542-b4f5-d6752100c4c1" width="45%"/>
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/82bf74f2-8d84-44e5-9136-7f81e82040bf" width="45%"/>
+<img src="https://github.com/user-attachments/assets/7322eaef-0657-4441-8353-c378e8739d07" width="45%"/>
+</p>
+
+
 ## 🌟 Key Features
 
 * Create, read, update, and delete thoughts.
