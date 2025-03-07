@@ -21,7 +21,7 @@ A web application built with Angular 14 for creating and managing thoughts and m
 * List favorite thoughts.
 * On-demand thought loading with pagination.
 
-## ✔️ Technologies Used
+<h2 id="technologies-used">✔️ Technologies Used</h2>
 
 * Git 2.48.1
 * Node 22.14.0
